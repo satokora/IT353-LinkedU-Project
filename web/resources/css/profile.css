@@ -1,0 +1,116 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 29, 2014
+    Author     : georgeherrmann
+*/
+
+body {
+    margin-top: 90px;
+    background-color: #E0E0E0;
+ }
+
+div.img-circular{
+    width: 150px;
+    height: 150px;
+    background-size: cover;
+    display: block;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+}
+
+
+p.par{
+    color:black;
+    font-family:Sans-Serif;
+    font-weight:bold
+    
+}
+
+p.ans{
+    color:black;
+    font-family:Sans-Serif;
+}
+
+.left {
+    border-radius: 10px;
+    position:fixed;
+    margin-left:40px;
+    left:40px; 
+    top:80px; 
+    width: 300px;
+    background-color:#ffffff;
+}
+
+div.imgv {
+    
+    margin: 0;
+    padding-top: 50px;
+    padding-right: 80px;
+    padding-bottom: 25px;
+    padding-left: 75px;
+}
+
+p.side {
+    color:black;
+    font-family:Sans-Serif;
+    font-weight:bold
+}
+
+
+div.tarea {
+    width:1500;
+    margin-bottom: 10px;
+    padding-top: 175px;
+    padding-right: 20px;
+    padding-bottom: 25px;
+    padding-left: 330px;
+}
+
+div.tarea2 {
+    float:bottom;
+    background-color: #E0E0E0;
+    margin-top: 20px;
+    padding-top: 175px;
+    padding-right: 20px;
+    padding-bottom: 25px;
+    padding-left: 330px;
+}
+
+div.cardleft {
+    border-radius: 10px;
+    background-color: #ffffff;
+    width: 450px;
+    margin-left:100px;
+    margin-bottom:20px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-bottom:20px;
+    padding-top:20px;
+
+}
+div.cardright {
+    border-radius: 10px;
+    background-color: #ffffff;
+    margin-bottom:20px;
+    width: 450px;
+    padding-left:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-right:20px;
+
+}
+div.cardcolleges {
+    border-radius: 10px;
+    float:left;
+    background-color: #ffffff;
+    width: 450px;
+    margin-left:80px;
+    margin-bottom:80px;
+    padding-left:20px;
+    padding-top:20px;
+}

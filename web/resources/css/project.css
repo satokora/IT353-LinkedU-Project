@@ -1,0 +1,76 @@
+.thumbnail img {
+  height: 200px;
+}
+.thumbnail .label {
+  margin-left: 10px;
+}
+
+.caption p:nth-of-type(1) {
+  height: 170px;
+}
+
+.page-footer {
+  padding-top: 9px;
+  margin: 40px 0px 20px;
+  border-top: 1px solid #EEE;
+  text-align: center;
+}
+
+i{
+  height:30px;
+}
+
+.jumbotron .label{
+  font-size:24px;
+}
+
+.jumbotron h1{
+  font-size:52px;
+}
+
+.jumbotron p{
+  font-size:18px;
+  font-weight:bold;
+}
+
+.jumbotron img{
+  border-radius: 4px;
+}
+
+.nav > li >a{
+  padding: 20px 15px;
+}
+.nav > li >a >i{
+  height: 18px;
+}
+
+.page-header{
+  margin-top: 60px;
+}
+
+.navbar-brand{
+  padding: 10px;
+}
+
+.navbar-default{
+  background-color: #FFF;
+}
+
+.results{
+  padding-top: 20px;
+  padding-bottom: 50px;
+  
+}
+
+.results img{
+  width: 100px;
+}
+
+.results td{
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.state-list{
+  width: 70px;
+}

@@ -1,0 +1,86 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 29, 2014
+    Author     : georgeherrmann
+*/
+
+body {
+ margin: 0px;
+ }
+
+
+h1.topbar {
+	position: fixed;
+	-webkit-box-shadow: 0 0 5px 0 rgba(0,0,0,0.4);
+    background-color: #E0E0E0;
+    color:white;
+    font-family:Sans-Serif;
+	z-index: 999;
+    font-size:100%;
+	width:100%;
+    margin: 0;
+    padding-top: 15px;
+    padding-right: 80px;
+    padding-bottom: 15px;
+    padding-left: 100px;
+}
+
+p.par{
+    color:black;
+    font-family:Sans-Serif;
+	font-weight:bold
+    
+}
+
+p.ans{
+    color:black;
+    font-family:Sans-Serif;
+    
+}
+
+.left {
+        position:absolute;
+        left:0; 
+		top:0px; bottom: 0;
+        width: 300px;
+		background-color:#212121;
+    }
+
+div.imgv {
+    
+    margin: 0;
+    /*padding-top: 50px; modified by Satoko 11/20/14 */
+    padding-top: 120px;
+    padding-right: 80px;
+    padding-bottom: 25px;
+    padding-left: 75px;
+}
+
+p.side {
+    
+    color:white;
+    font-family:Sans-Serif;
+	font-weight:bold
+}
+
+
+div.tarea {
+    background-color: #ffffff;
+    
+    margin: 0;
+    padding-top: 175px;
+    padding-right: 80px;
+    padding-bottom: 25px;
+    padding-left: 325px;
+}
+
+#avatar{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+}
+
